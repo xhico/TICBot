@@ -1,90 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-
-<rss version="2.0"
- xmlns:admin="http://webns.net/mvcb/"
- xmlns:content="http://purl.org/rss/1.0/modules/content/"
- xmlns:dc="http://purl.org/dc/elements/1.1/"
- xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
- xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
->
-
-<channel>
-<title>Avisos do SIDE - Licenciatura em Gen&#xE9;tica e Biotecnologia</title>
-<link>http://side.utad.pt/rss.pl?GEB</link>
-<description>Avisos do Sistema de Informa&#xE7;&#xE3;o de Apoio ao Ensino</description>
-
-<image>
-<title>Sistema de Informa&#xE7;&#xE3;o de Apoio ao Ensino</title>
-<url>http://side.utad.pt/imagens/logo_rss.gif</url>
-<link>http://side.utad.pt/</link>
-<width>39</width>
-<height>32</height>
-</image>
-<item>
-<title>ESTUDANTES |QUESTION&#xC1;RIOS PEDAG&#xD3;GICOS 2018/2019 - 2&#xBA; SEMESTRE</title>
-<link>http://side.utad.pt/cursos/genetica</link>
-<description>O QUESTION&#xC1;RIO PEDAG&#xD3;GICO &#xE9; uma ferramenta fundamental para o processo de auto-avalia&#xE7;&#xE3;o e para a melhoria cont&#xED;nua do sistema de ensino-aprendizagem. O question&#xE1;rio &#xE9; an&#xF3;nimo, sendo imposs&#xED;vel a identifica&#xE7;&#xE3;o do respondente pelo sistema implementado. S&#xF3; ter&#xE1; que responder a este question&#xE1;rio uma vez por semestre. O seu contributo permitir&#xE1; identificar situa&#xE7;&#xF5;es relevantes de bom ou mau funcionamento das UC e/ou respetivos docentes, pelo que dever&#xE1; responder de forma consciente e isenta.&#x3C;br/&#x3E;&#x3C;A HREF=&#x22;https://www.campus.utad.pt/questionarios/Secure/index&#x22; class=&#x22;small button&#x22; target=&#x22;_blank&#x22;&#x3E;|ACEDER AOS QUESTION&#xC1;RIOS|&#x3C;/A&#x3E;&#x3C;br/&#x3E;</description>
-<pubDate>Fri, 31 May 2019 15:45:03 GMT</pubDate>
-</item>
-<item>
-<title>Cultura in vitro de c&#xE9;lulas animais - Consulta das frequ&#xEA;ncias</title>
-<link>http://side.utad.pt/cursos/genetica</link>
-<description>Avisam-se os Srs. Alunos (as) que poder&#xE3;o consultar as frequ&#xEA;ncias de cultura, amanh&#xE3;, quarta-feira (dia 12/06), entre as 11h e as 12h30m. no gabinete da Professora Raquel Chaves (A0.06, Blocos Laboratoriais).&#x3C;br/&#x3E;&#x3C;br/&#x3E;Raquel Chaves</description>
-<pubDate>Tue, 11 Jun 2019 11:49:53 GMT</pubDate>
-</item>
-<item>
-<title>Coordena&#xE7;&#xE3;o de Curso - ESCOLHA UCs OPTATIVAS </title>
-<link>http://side.utad.pt/cursos/genetica</link>
-<description>Solicita-se aos estudantes que n&#xE3;o indicaram ainda as suas prefer&#xEA;ncias relativamente &#xE0;s UCs optativas, a frequentar no 3&#xBA; ano do pr&#xF3;ximo ano letivo, que o fa&#xE7;am com brevidade junto da dire&#xE7;&#xE3;o de curso ou por email.&#x3C;br/&#x3E;&#x3C;br/&#x3E;&#x3C;br/&#x3E;Fernanda Leal</description>
-<pubDate>Tue, 11 Jun 2019 10:43:28 GMT</pubDate>
-</item>
-<item>
-<title>Engenharia de reactores bioqu&#xED;micos e de bioprocessadores - Apresenta&#xE7;&#xE3;o trabalh</title>
-<link>http://side.utad.pt/cursos/genetica</link>
-<description>As notas das apresenta&#xE7;&#xF5;es j&#xE1; se encontram em download.</description>
-<pubDate>Mon, 10 Jun 2019 04:34:57 GMT</pubDate>
-</item>
-<item>
-<title>Tecnologia dos &#xE1;cidos nucleicos - Notas Teste Freq&#xAA;</title>
-<link>http://side.utad.pt/cursos/genetica</link>
-<description>Dispon&#xED;veis em downloads.&#x3C;br/&#x3E;JBrito</description>
-<pubDate>Fri, 7 Jun 2019 16:53:21 GMT</pubDate>
-</item>
-<item>
-<title>Microbiologia - Admiss&#xE3;o a exame</title>
-<link>http://side.utad.pt/cursos/genetica</link>
-<description>Avisam-se os alunos inscritos na UC de Microbiologia e que na avalia&#xE7;&#xE3;o da componente pr&#xE1;tica (MP) obtiveram nota inferior a 8,5 valores que podem, EXCEPCIONALMENTE,  realizar o exame te&#xF3;rico APENAS na 1&#xAA; Chamada de exame, a realizar no dia 18 de Junho. A Nota final continuar&#xE1; a ter em considera&#xE7;&#xE3;o a nota obtida na componente pr&#xE1;tica.&#x3C;br/&#x3E;&#x3C;br/&#x3E;Os docentes</description>
-<pubDate>Mon, 3 Jun 2019 15:21:23 GMT</pubDate>
-</item>
-<item>
-<title>Tecnologia dos &#xE1;cidos nucleicos - RETIFICA&#xC7;&#xC3;O_Mat&#xE9;ria Freq&#xAA; e exames</title>
-<link>http://side.utad.pt/cursos/genetica</link>
-<description>Avisam-se os srs. alunos que a mat&#xE9;ria a ser avaliada no teste de frequ&#xEA;ncia e nos exames de &#xE9;poca normal e recurso &#xE9; a que consta dos sum&#xE1;rios das aulas 4 a 15 inclusiv&#xE9;.&#x3C;br/&#x3E;JBrito&#x3C;br/&#x3E;</description>
-<pubDate>Wed, 29 May 2019 15:57:42 GMT</pubDate>
-</item>
-<item>
-<title>Tecnologia dos &#xE1;cidos nucleicos - PDF aula 28 maio</title>
-<link>http://side.utad.pt/cursos/genetica</link>
-<description>Dispon&#xED;vel em downloads.&#x3C;br/&#x3E;JBrito</description>
-<pubDate>Sat, 25 May 2019 14:36:29 GMT</pubDate>
-</item>
-<item>
-<title>Coordena&#xE7;&#xE3;o de Curso - Comiss&#xE3;o de Curso</title>
-<link>http://side.utad.pt/cursos/genetica</link>
-<description>D&#xE1;-se conhecimento que a comiss&#xE3;o de Curso de Gen&#xE9;tica e Biotecnologia, para o bi&#xE9;nio 2019/2021 &#xE9; a seguinte:&#x3C;br/&#x3E;&#x3C;br/&#x3E;Fernanda Leal              - Diretor de Curso&#x3C;br/&#x3E;Jos&#xE9; Eduardo Brito       - Vice- diretor de Curso&#x3C;br/&#x3E;Ana Margarida Ferreira - Vogal&#x3C;br/&#x3E;Gabriel Jos&#xE9; Marques   - Representante dos estudantes&#x3C;br/&#x3E;Ana Rafaela Pereira      - Representante dos estudantes&#x3C;br/&#x3E;&#x3C;br/&#x3E;Fernanda Leal</description>
-<pubDate>Fri, 24 May 2019 14:49:17 GMT</pubDate>
-</item>
-<item>
-<title>Coordena&#xE7;&#xE3;o de Curso - Representantes dos estudantes na Comiss&#xE3;o de Curso</title>
-<link>http://side.utad.pt/cursos/genetica</link>
-<description>Informa-se que os representantes dos Estudantes na Comiss&#xE3;o de curso s&#xE3;o:&#x3C;br/&#x3E;Gabriel Jos&#xE9; Marques (1&#xBA; ano) - 59 votos&#x3C;br/&#x3E;Ana Rafaela Pereira (2&#xBA; ano) - 39 votos&#x3C;br/&#x3E;&#x3C;br/&#x3E;Suplente&#x3C;br/&#x3E;In&#xEA;s Carvalho Soares (1&#xBA; ano) &#x3C;br/&#x3E;&#x3C;br/&#x3E;&#x3C;br/&#x3E;Fernanda Leal </description>
-<pubDate>Fri, 24 May 2019 14:22:44 GMT</pubDate>
-</item>
-<item>
-<title>Tecnologia dos &#xE1;cidos nucleicos - Lista de alunos com frequ&#xEA;ncia em 2018/2019</title>
-<link>http://side.utad.pt/cursos/genetica</link>
-<description>Dispon&#xED;vel em downloads.&#x3C;br/&#x3E;JBrito</description>
-<pubDate>Mon, 18 Feb 2019 22:23:36 GMT</pubDate>
-</item>
-</channel>
-</rss>

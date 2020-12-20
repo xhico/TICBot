@@ -1,48 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-
-<rss version="2.0"
- xmlns:admin="http://webns.net/mvcb/"
- xmlns:content="http://purl.org/rss/1.0/modules/content/"
- xmlns:dc="http://purl.org/dc/elements/1.1/"
- xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
- xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
->
-
-<channel>
-<title>Avisos do SIDE - Licenciatura em Ci&#xEA;ncias da Nutri&#xE7;&#xE3;o</title>
-<link>http://side.utad.pt/rss.pl?CNT</link>
-<description>Avisos do Sistema de Informa&#xE7;&#xE3;o de Apoio ao Ensino</description>
-
-<image>
-<title>Sistema de Informa&#xE7;&#xE3;o de Apoio ao Ensino</title>
-<url>http://side.utad.pt/imagens/logo_rss.gif</url>
-<link>http://side.utad.pt/</link>
-<width>39</width>
-<height>32</height>
-</image>
-<item>
-<title>ESTUDANTES |QUESTION&#xC1;RIOS PEDAG&#xD3;GICOS 2018/2019 - 2&#xBA; SEMESTRE</title>
-<link>http://side.utad.pt/cursos/nutricao</link>
-<description>O QUESTION&#xC1;RIO PEDAG&#xD3;GICO &#xE9; uma ferramenta fundamental para o processo de auto-avalia&#xE7;&#xE3;o e para a melhoria cont&#xED;nua do sistema de ensino-aprendizagem. O question&#xE1;rio &#xE9; an&#xF3;nimo, sendo imposs&#xED;vel a identifica&#xE7;&#xE3;o do respondente pelo sistema implementado. S&#xF3; ter&#xE1; que responder a este question&#xE1;rio uma vez por semestre. O seu contributo permitir&#xE1; identificar situa&#xE7;&#xF5;es relevantes de bom ou mau funcionamento das UC e/ou respetivos docentes, pelo que dever&#xE1; responder de forma consciente e isenta.&#x3C;br/&#x3E;&#x3C;A HREF=&#x22;https://www.campus.utad.pt/questionarios/Secure/index&#x22; class=&#x22;small button&#x22; target=&#x22;_blank&#x22;&#x3E;|ACEDER AOS QUESTION&#xC1;RIOS|&#x3C;/A&#x3E;&#x3C;br/&#x3E;</description>
-<pubDate>Fri, 31 May 2019 15:45:03 GMT</pubDate>
-</item>
-<item>
-<title>Notas - Avalia&#xE7;&#xE3;o Cont&#xED;nua Antropologia da Nutri&#xE7;&#xE3;o</title>
-<link>http://side.utad.pt/cursos/nutricao</link>
-<description>Caros Alunos,&#x3C;br/&#x3E;&#x3C;br/&#x3E;Foram publicadas as notas referentes &#xE0; avalia&#xE7;&#xE3;o cont&#xED;nua de Antropologia da Nutri&#xE7;&#xE3;o.&#x3C;br/&#x3E;&#x3C;br/&#x3E;Bom trabalho,&#x3C;br/&#x3E;Prof. Carla Gon&#xE7;alves</description>
-<pubDate>Fri, 14 Jun 2019 16:39:57 GMT</pubDate>
-</item>
-<item>
-<title>Histologia - Avalia&#xE7;&#xE3;o Cont&#xED;nua - Classifica&#xE7;&#xE3;o Final</title>
-<link>http://side.utad.pt/cursos/nutricao</link>
-<description>A pauta com a classifica&#xE7;&#xE3;o final da avalia&#xE7;&#xE3;o cont&#xED;nua encontra-se dispon&#xED;vel no campo &#x22;Downloads&#x22;.&#x3C;br/&#x3E;&#x3C;br/&#x3E;O docente,&#x3C;br/&#x3E;Jorge Ventura</description>
-<pubDate>Fri, 14 Jun 2019 15:26:58 GMT</pubDate>
-</item>
-<item>
-<title>Gen&#xE9;tica - Submiss&#xE3;o de trabalhos no SIDE</title>
-<link>http://side.utad.pt/cursos/nutricao</link>
-<description>Caro(a)s Aluno(a)s&#x3C;br/&#x3E;&#x3C;br/&#x3E;Tal como tem sido reiterado por diversas vezes, e pelas mais variadas vias, TODOS os itens do semin&#xE1;rio (monografias e apresenta&#xE7;&#xF5;es) t&#xEA;m de ser submetidas no SIDE, para serem avaliados.&#x3C;br/&#x3E;&#x3C;br/&#x3E;Conforme pedido por uma das representantes, o prazo de submiss&#xE3;o foi alargado at&#xE9; 12 de Junho.&#x3C;br/&#x3E;&#x3C;br/&#x3E;Os trabalhos que n&#xE3;o forem submetidos por esta via n&#xE3;o ser&#xE3;o considerados para a avalia&#xE7;&#xE3;o, pelo que os alunos envolvidos n&#xE3;o obter&#xE3;o frequ&#xEA;ncia &#xE0; UC.&#x3C;br/&#x3E;&#x3C;br/&#x3E;As docentes</description>
-<pubDate>Wed, 12 Jun 2019 15:54:23 GMT</pubDate>
-</item>
-</channel>
-</rss>

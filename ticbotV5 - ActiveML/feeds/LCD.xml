@@ -1,66 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-
-<rss version="2.0"
- xmlns:admin="http://webns.net/mvcb/"
- xmlns:content="http://purl.org/rss/1.0/modules/content/"
- xmlns:dc="http://purl.org/dc/elements/1.1/"
- xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
- xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
->
-
-<channel>
-<title>Avisos do SIDE - Licenciatura em Ci&#xEA;ncias do Desporto</title>
-<link>http://side.utad.pt/rss.pl?LCD</link>
-<description>Avisos do Sistema de Informa&#xE7;&#xE3;o de Apoio ao Ensino</description>
-
-<image>
-<title>Sistema de Informa&#xE7;&#xE3;o de Apoio ao Ensino</title>
-<url>http://side.utad.pt/imagens/logo_rss.gif</url>
-<link>http://side.utad.pt/</link>
-<width>39</width>
-<height>32</height>
-</image>
-<item>
-<title>ESTUDANTES 2&#xBA; ANO - CANDIDATURA AOS RAMOS DO 3&#xBA; ANO &#x96; Lista Provis&#xF3;ria</title>
-<link>http://side.utad.pt/cursos/cdesporto</link>
-<description>Os interessados disp&#xF5;em de um prazo de (10 dias uteis) para aprova&#xE7;&#xE3;o/reclama&#xE7;&#xE3;o junto da Dire&#xE7;&#xE3;o do Curso. &#x3C;A HREF=&#x22;http://side.utad.pt/storage/documentacao/RAMOS_2019_20190603.pdf&#x22; class=&#x22;small button&#x22; target=&#x22;_blank&#x22;&#x3E;VER LISTA PROVIS&#xD3;RIA&#x3C;/A&#x3E;&#x3C;br/&#x3E;&#x3C;br/&#x3E;A Dire&#xE7;&#xE3;o do Curso&#x3C;br/&#x3E;Prof&#xAA; Isabel Gomes&#x3C;br/&#x3E;</description>
-<pubDate>Tue, 4 Jun 2019 09:30:14 GMT</pubDate>
-</item>
-<item>
-<title>ESTUDANTES |QUESTION&#xC1;RIOS PEDAG&#xD3;GICOS 2018/2019 - 2&#xBA; SEMESTRE</title>
-<link>http://side.utad.pt/cursos/cdesporto</link>
-<description>O QUESTION&#xC1;RIO PEDAG&#xD3;GICO &#xE9; uma ferramenta fundamental para o processo de auto-avalia&#xE7;&#xE3;o e para a melhoria cont&#xED;nua do sistema de ensino-aprendizagem. O question&#xE1;rio &#xE9; an&#xF3;nimo, sendo imposs&#xED;vel a identifica&#xE7;&#xE3;o do respondente pelo sistema implementado. S&#xF3; ter&#xE1; que responder a este question&#xE1;rio uma vez por semestre. O seu contributo permitir&#xE1; identificar situa&#xE7;&#xF5;es relevantes de bom ou mau funcionamento das UC e/ou respetivos docentes, pelo que dever&#xE1; responder de forma consciente e isenta.&#x3C;br/&#x3E;&#x3C;A HREF=&#x22;https://www.campus.utad.pt/questionarios/Secure/index&#x22; class=&#x22;small button&#x22; target=&#x22;_blank&#x22;&#x3E;|ACEDER AOS QUESTION&#xC1;RIOS|&#x3C;/A&#x3E;&#x3C;br/&#x3E;</description>
-<pubDate>Fri, 31 May 2019 15:45:03 GMT</pubDate>
-</item>
-<item>
-<title>Nutri&#xE7;&#xE3;o e atividade f&#xED;sica - Avalia&#xE7;&#xE3;o UC</title>
-<link>http://side.utad.pt/cursos/cdesporto</link>
-<description>Solicita-se, aos alunos abaixo indicados, que entrem em contacto com a docente da UC de Nutri&#xE7;&#xE3;o e Atividade F&#xED;sica (email ou telem&#xF3;vel):&#x3C;br/&#x3E;&#x3C;br/&#x3E;JOS&#xC9; Paulo Lob&#xE3;o ANT&#xD3;NIO&#x3C;br/&#x3E;NUNO Albano Cardoso LOPES&#x3C;br/&#x3E;SIM&#xC3;O Rom&#xE3;o PEREIRA&#x3C;br/&#x3E;TIAGO Manuel Ferreira LEAL&#x3C;br/&#x3E;</description>
-<pubDate>Wed, 12 Jun 2019 22:09:27 GMT</pubDate>
-</item>
-<item>
-<title>Jogos desportivos coletivos I - Altera&#xE7;&#xE3;o do local da aula - Voleibol de praia</title>
-<link>http://side.utad.pt/cursos/cdesporto</link>
-<description>Amanh&#xE3; 3&#xAA;f, em virtude da altera&#xE7;&#xE3;o das condi&#xE7;&#xF5;es climat&#xE9;ricas, a aula que deveria decorrer no campo de areia - Voleibol de praia, mas ir&#xE1; ocorrer na nave dos desportos, local habitual, nos mesmos hor&#xE1;rios.&#x3C;br/&#x3E;Em rela&#xE7;&#xE3;o ao dossier digital, ele dever&#xE1; ser entregue ao respons&#xE1;vel de cada turma, com o balan&#xE7;o do semestre, balan&#xE7;o da A&#xE7;&#xE3;o de Forma&#xE7;&#xE3;o Gira-Volei e balan&#xE7;o do XIX&#xBA; Torneio de Voleibol Misto 4x4.&#x3C;br/&#x3E;&#x3C;br/&#x3E;O Docente: Paulo Vicente Jo&#xE3;o &#x3C;br/&#x3E;&#x3C;br/&#x3E;Tomorrow Tuesday, due to the change in the weather conditions, the lesson that should take place in the sand field - Beach volleyball, but will occur in the sports hall, usual place, at the same times.&#x3C;br/&#x3E;In relation to the digital dossier, it should be delivered to the head of each class, with the balance of the semester, balance of the Action of Formation Gira-Volei and balance of the XIX Tournament of Mixed Volleyball 4x4.</description>
-<pubDate>Mon, 3 Jun 2019 15:15:15 GMT</pubDate>
-</item>
-<item>
-<title>Desportos individuais II -  Nata&#xE7;&#xE3;o - Componente Pr&#xE1;tica</title>
-<link>http://side.utad.pt/cursos/cdesporto</link>
-<description>Avisam-se os alunos, das turmas 1 e 4, que a avalia&#xE7;&#xE3;o da componente pr&#xE1;tica ser&#xE1; realizada, durante a aula, nos seguintes dias:&#x3C;br/&#x3E;&#x3C;br/&#x3E;- Avalia&#xE7;&#xE3;o dos 100m Crol: 06/06/19&#x3C;br/&#x3E;- Avalia&#xE7;&#xE3;o dos 100m Estilos: 07/06/19&#x3C;br/&#x3E;&#x3C;br/&#x3E;Obrigada&#x3C;br/&#x3E;&#x3C;br/&#x3E;Professora &#x3C;br/&#x3E;Raquel Marinho</description>
-<pubDate>Wed, 29 May 2019 00:03:07 GMT</pubDate>
-</item>
-<item>
-<title>Desportos individuais II - Nata&#xE7;&#xE3;o : Inscri&#xE7;&#xE3;o UC no Moodle</title>
-<link>http://side.utad.pt/cursos/cdesporto</link>
-<description>Avisam-se os alunos das 4 turmas, que a componente de forma&#xE7;&#xE3;o te&#xF3;rica das aulas de nata&#xE7;&#xE3;o, ser&#xE1; realizada atrav&#xE9;s do moodle. Portanto, todo os alunos devem realizar a sua inscri&#xE7;&#xE3;o no moodle.&#x3C;br/&#x3E;&#x3C;br/&#x3E;Obrigada&#x3C;br/&#x3E;Raquel Marinho</description>
-<pubDate>Thu, 21 Feb 2019 14:40:09 GMT</pubDate>
-</item>
-<item>
-<title>Desportos individuais II - Programa de Nata&#xE7;&#xE3;o 2018-2019 e Acesso ao Moodle UTAD</title>
-<link>http://side.utad.pt/cursos/cdesporto</link>
-<description>Caros alunos,&#x3C;br/&#x3E;&#x3C;br/&#x3E;J&#xE1; se encontram dispon&#xED;veis, na &#xE1;rea de download, os seguintes documentos:&#x3C;br/&#x3E;&#x3C;br/&#x3E;- O Programa de Nata&#xE7;&#xE3;o 2018/2019&#x3C;br/&#x3E;- O Acesso ao Moodle: Processo de Inscri&#xE7;&#xE3;o UC&#x3C;br/&#x3E;&#x3C;br/&#x3E;Obrigada&#x3C;br/&#x3E;Raquel Marinho</description>
-<pubDate>Thu, 21 Feb 2019 11:05:42 GMT</pubDate>
-</item>
-</channel>
-</rss>

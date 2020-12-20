@@ -1,60 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-
-<rss version="2.0"
- xmlns:admin="http://webns.net/mvcb/"
- xmlns:content="http://purl.org/rss/1.0/modules/content/"
- xmlns:dc="http://purl.org/dc/elements/1.1/"
- xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
- xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
->
-
-<channel>
-<title>Avisos do SIDE - Mestrado Integrado em Engenharia e Gest&#xE3;o Industrial</title>
-<link>http://side.utad.pt/rss.pl?MESINTEGI</link>
-<description>Avisos do Sistema de Informa&#xE7;&#xE3;o de Apoio ao Ensino</description>
-
-<image>
-<title>Sistema de Informa&#xE7;&#xE3;o de Apoio ao Ensino</title>
-<url>http://side.utad.pt/imagens/logo_rss.gif</url>
-<link>http://side.utad.pt/</link>
-<width>39</width>
-<height>32</height>
-</image>
-<item>
-<title>ESTUDANTES |QUESTION&#xC1;RIOS PEDAG&#xD3;GICOS 2018/2019 - 2&#xBA; SEMESTRE</title>
-<link>http://side.utad.pt/cursos/mestrado_egi</link>
-<description>O QUESTION&#xC1;RIO PEDAG&#xD3;GICO &#xE9; uma ferramenta fundamental para o processo de auto-avalia&#xE7;&#xE3;o e para a melhoria cont&#xED;nua do sistema de ensino-aprendizagem. O question&#xE1;rio &#xE9; an&#xF3;nimo, sendo imposs&#xED;vel a identifica&#xE7;&#xE3;o do respondente pelo sistema implementado. S&#xF3; ter&#xE1; que responder a este question&#xE1;rio uma vez por semestre. O seu contributo permitir&#xE1; identificar situa&#xE7;&#xF5;es relevantes de bom ou mau funcionamento das UC e/ou respetivos docentes, pelo que dever&#xE1; responder de forma consciente e isenta.&#x3C;br/&#x3E;&#x3C;A HREF=&#x22;https://www.campus.utad.pt/questionarios/Secure/index&#x22; class=&#x22;small button&#x22; target=&#x22;_blank&#x22;&#x3E;|ACEDER AOS QUESTION&#xC1;RIOS|&#x3C;/A&#x3E;&#x3C;br/&#x3E;</description>
-<pubDate>Fri, 31 May 2019 15:45:03 GMT</pubDate>
-</item>
-<item>
-<title>Eletrotecnia e eletr&#xF3;nica - Classifica&#xE7;&#xF5;es Electr&#xF3;nica</title>
-<link>http://side.utad.pt/cursos/mestrado_egi</link>
-<description>Caros Alunos&#x3C;br/&#x3E;&#x3C;br/&#x3E;As classifica&#xE7;&#xF5;es finais j&#xE1; se encontram dispon&#xED;veis no SiDe.&#x3C;br/&#x3E;&#x3C;br/&#x3E;As inscri&#xE7;&#xF5;es para a &#xE9;poca de Recurso j&#xE1; est&#xE3;o abertas.&#x3C;br/&#x3E;&#x3C;br/&#x3E;Melhores Cumprimentos,&#x3C;br/&#x3E;Salviano Soares&#x3C;br/&#x3E;</description>
-<pubDate>Mon, 1 Jul 2019 17:33:29 GMT</pubDate>
-</item>
-<item>
-<title>Estat&#xED;stica aplicada - Hor&#xE1;rio de atendimento</title>
-<link>http://side.utad.pt/cursos/mestrado_egi</link>
-<description>Segunda-feira, dia 1/7, das 18h &#xE0;s 19h30&#x3C;br/&#x3E;F&#xE1;tima Ferreira</description>
-<pubDate>Sat, 29 Jun 2019 12:14:15 GMT</pubDate>
-</item>
-<item>
-<title>F&#xED;sica - Exame Recurso realizar-se-&#xE1; dia 03 de julho &#xE0;s 9h00 na sala F2.8 (polo </title>
-<link>http://side.utad.pt/cursos/mestrado_egi</link>
-<description>O Exame Recurso de F&#xED;sica realizar-se-&#xE1; dia 03 de julho &#xE0;s 9h00 na sala F2.8 (polo II ECT)</description>
-<pubDate>Mon, 24 Jun 2019 14:38:06 GMT</pubDate>
-</item>
-<item>
-<title>Actividades do curso de MIEGI</title>
-<link>http://side.utad.pt/cursos/mestrado_egi</link>
-<description>Caros alunos, &#x3C;br/&#x3E;&#x3C;br/&#x3E;tomem por favor aten&#xE7;&#xE3;o &#xE0;s seguintes actividade do in&#xED;cio do pr&#xF3;ximo ano lectivo:&#x3C;br/&#x3E;&#x3C;br/&#x3E;1. Jornadas:&#x3C;br/&#x3E;Brochura em anexo&#x3C;br/&#x3E;&#x3C;br/&#x3E;O NEEGIUM est&#xE1; a organizar a edi&#xE7;&#xE3;o 2019 das Jornadas do MIEGI e gostaria de ter o envolvimento/participa&#xE7;&#xE3;o da UTAD.&#x3C;br/&#x3E;Os contactos dos Project Leaders (alunos Carlos Silva e Lu&#xED;s Fernandes) s&#xE3;o carloslopesilva99@gmail.com (964 137 536) e luismfernandes@icloud.com (919 030 646).&#x3C;br/&#x3E; &#x3C;br/&#x3E;2. O ENEGI2019 - 8&#xBA; Encontro Nacional de Engenharia e Gest&#xE3;o Industrial decorrer&#xE1; na Universidade de Aveiro, nos dias 24 e 25 de setembro de 2019.</description>
-<pubDate>Sat, 22 Jun 2019 16:51:58 GMT</pubDate>
-</item>
-<item>
-<title>Transi&#xE7;&#xE3;o para a Universidade do Minho </title>
-<link>http://side.utad.pt/cursos/mestrado_egi</link>
-<description>Os alunos que completam 95 ECTS at&#xE9; ao final do corrente ano lectivo e pretendam transitar para a universidade do Minho devem entregar na Secretaria de Alunos,  at&#xE9; ao dia 30 de junho de 2019, uma declara&#xE7;&#xE3;o de inten&#xE7;&#xE3;o de transi&#xE7;&#xE3;o. </description>
-<pubDate>Mon, 17 Jun 2019 11:58:22 GMT</pubDate>
-</item>
-</channel>
-</rss>

@@ -1,4 +1,0 @@
-requests
-feedparser
-proxy_requests
-yagmail

@@ -1,42 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-
-<rss version="2.0"
- xmlns:admin="http://webns.net/mvcb/"
- xmlns:content="http://purl.org/rss/1.0/modules/content/"
- xmlns:dc="http://purl.org/dc/elements/1.1/"
- xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
- xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
->
-
-<channel>
-<title>Avisos do SIDE - Licenciatura em Arquitectura Paisagista</title>
-<link>http://side.utad.pt/rss.pl?ARQ</link>
-<description>Avisos do Sistema de Informa&#xE7;&#xE3;o de Apoio ao Ensino</description>
-
-<image>
-<title>Sistema de Informa&#xE7;&#xE3;o de Apoio ao Ensino</title>
-<url>http://side.utad.pt/imagens/logo_rss.gif</url>
-<link>http://side.utad.pt/</link>
-<width>39</width>
-<height>32</height>
-</image>
-<item>
-<title>ESTUDANTES |QUESTION&#xC1;RIOS PEDAG&#xD3;GICOS 2018/2019 - 2&#xBA; SEMESTRE</title>
-<link>http://side.utad.pt/cursos/arquitectura</link>
-<description>O QUESTION&#xC1;RIO PEDAG&#xD3;GICO &#xE9; uma ferramenta fundamental para o processo de auto-avalia&#xE7;&#xE3;o e para a melhoria cont&#xED;nua do sistema de ensino-aprendizagem. O question&#xE1;rio &#xE9; an&#xF3;nimo, sendo imposs&#xED;vel a identifica&#xE7;&#xE3;o do respondente pelo sistema implementado. S&#xF3; ter&#xE1; que responder a este question&#xE1;rio uma vez por semestre. O seu contributo permitir&#xE1; identificar situa&#xE7;&#xF5;es relevantes de bom ou mau funcionamento das UC e/ou respetivos docentes, pelo que dever&#xE1; responder de forma consciente e isenta.&#x3C;br/&#x3E;&#x3C;A HREF=&#x22;https://www.campus.utad.pt/questionarios/Secure/index&#x22; class=&#x22;small button&#x22; target=&#x22;_blank&#x22;&#x3E;|ACEDER AOS QUESTION&#xC1;RIOS|&#x3C;/A&#x3E;&#x3C;br/&#x3E;</description>
-<pubDate>Fri, 31 May 2019 15:45:03 GMT</pubDate>
-</item>
-<item>
-<title>Bot&#xE2;nica - Sala exame - &#xC9;poca de Recurso A 1.10 edif&#xED;cio Geoci&#xEA;ncias </title>
-<link>http://side.utad.pt/cursos/arquitectura</link>
-<description>Informo que devido a uma sobreposi&#xE7;&#xE3;o de hor&#xE1;rios, a sala onde ser&#xE1; o exame de recurso ser&#xE1; a sala A1.10 no edif&#xED;cio de Geoci&#xEA;ncias e n&#xE3;o na sala A1.8.&#x3C;br/&#x3E;&#x3C;br/&#x3E;Cumprimentos,&#x3C;br/&#x3E;Eunice Bacelar </description>
-<pubDate>Mon, 1 Jul 2019 14:41:44 GMT</pubDate>
-</item>
-<item>
-<title>Arquitetura - Classifica&#xE7;&#xE3;o Final Arquitetura - AP</title>
-<link>http://side.utad.pt/cursos/arquitectura</link>
-<description>Encontra-se em &#x22;Download&#x22; a Pauta com a Classifica&#xE7;&#xE3;o Final da UC &#x22;ARQUITETURA&#x22;.&#x3C;br/&#x3E;&#x3C;br/&#x3E;A Docente&#x3C;br/&#x3E;Eunice Salavessa</description>
-<pubDate>Tue, 11 Jun 2019 17:17:35 GMT</pubDate>
-</item>
-</channel>
-</rss>

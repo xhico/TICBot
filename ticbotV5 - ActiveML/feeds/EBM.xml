@@ -1,96 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-
-<rss version="2.0"
- xmlns:admin="http://webns.net/mvcb/"
- xmlns:content="http://purl.org/rss/1.0/modules/content/"
- xmlns:dc="http://purl.org/dc/elements/1.1/"
- xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
- xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
->
-
-<channel>
-<title>Avisos do SIDE - Licenciatura em Engenharia Biom&#xE9;dica</title>
-<link>http://side.utad.pt/rss.pl?EBM</link>
-<description>Avisos do Sistema de Informa&#xE7;&#xE3;o de Apoio ao Ensino</description>
-
-<image>
-<title>Sistema de Informa&#xE7;&#xE3;o de Apoio ao Ensino</title>
-<url>http://side.utad.pt/imagens/logo_rss.gif</url>
-<link>http://side.utad.pt/</link>
-<width>39</width>
-<height>32</height>
-</image>
-<item>
-<title>ESTUDANTES |QUESTION&#xC1;RIOS PEDAG&#xD3;GICOS 2018/2019 - 2&#xBA; SEMESTRE</title>
-<link>http://side.utad.pt/cursos/biomedica</link>
-<description>O QUESTION&#xC1;RIO PEDAG&#xD3;GICO &#xE9; uma ferramenta fundamental para o processo de auto-avalia&#xE7;&#xE3;o e para a melhoria cont&#xED;nua do sistema de ensino-aprendizagem. O question&#xE1;rio &#xE9; an&#xF3;nimo, sendo imposs&#xED;vel a identifica&#xE7;&#xE3;o do respondente pelo sistema implementado. S&#xF3; ter&#xE1; que responder a este question&#xE1;rio uma vez por semestre. O seu contributo permitir&#xE1; identificar situa&#xE7;&#xF5;es relevantes de bom ou mau funcionamento das UC e/ou respetivos docentes, pelo que dever&#xE1; responder de forma consciente e isenta.&#x3C;br/&#x3E;&#x3C;A HREF=&#x22;https://www.campus.utad.pt/questionarios/Secure/index&#x22; class=&#x22;small button&#x22; target=&#x22;_blank&#x22;&#x3E;|ACEDER AOS QUESTION&#xC1;RIOS|&#x3C;/A&#x3E;&#x3C;br/&#x3E;</description>
-<pubDate>Fri, 31 May 2019 15:45:04 GMT</pubDate>
-</item>
-<item>
-<title>Biomateriais - Notas &#xE9;poca normal</title>
-<link>http://side.utad.pt/cursos/biomedica</link>
-<description>J&#xE1; podem ser consultadas no SIDE.&#x3C;br/&#x3E;&#x3C;br/&#x3E;&#x3C;br/&#x3E;Paula Braga</description>
-<pubDate>Mon, 1 Jul 2019 17:03:33 GMT</pubDate>
-</item>
-<item>
-<title>An&#xE1;lise matem&#xE1;tica II - Verifica&#xE7;&#xE3;o de resultados: Avalia&#xE7;&#xE3;o Cont&#xED;nua + &#xC9;p. Norm</title>
-<link>http://side.utad.pt/cursos/biomedica</link>
-<description>A fim de prevenir eventuais erros no lan&#xE7;amento das Classifica&#xE7;&#xF5;es, solicita-se que cada aluno verifique a classifica&#xE7;&#xE3;o (nota) obtida em An&#xE1;lise Matem&#xE1;tica II por Avalia&#xE7;&#xE3;o Cont&#xED;nua ou no exame global da &#xC9;poca Normal na &#xE1;rea &#x22;Classifica&#xE7;&#xE3;o final&#x22; do campo &#x22;Avalia&#xE7;&#xF5;es&#x22; no SIDE (ou na &#xE1;rea de &#x22;Downloads&#x22;). &#x3C;br/&#x3E;Caso detetem alguma falha por favor enviem e-mail para jluis@utad.pt at&#xE9; &#xE0; pr&#xF3;xima ter&#xE7;a-feira (dia 2 de julho de 2019).</description>
-<pubDate>Sun, 30 Jun 2019 13:27:20 GMT</pubDate>
-</item>
-<item>
-<title>Instrumenta&#xE7;&#xE3;o m&#xE9;dica - Avalia&#xE7;&#xE3;o</title>
-<link>http://side.utad.pt/cursos/biomedica</link>
-<description>Est&#xE1; dispon&#xED;vel em Downloads a nota final da UC, com a natural excep&#xE7;&#xE3;o&#x3C;br/&#x3E;da &#xE9;poca de recurso.&#x3C;br/&#x3E;As alunas que desejem rever a prova de exame da &#xE9;poca normal ou tirar d&#xFA;vidas para o exame da &#xE9;poca de recurso, podem vir ao meu gabinete  segunda-feira, meio-dia (1 de Julho).&#x3C;br/&#x3E;&#x3C;br/&#x3E;Lu&#xED;s Torres Pereira</description>
-<pubDate>Sat, 29 Jun 2019 17:46:48 GMT</pubDate>
-</item>
-<item>
-<title>An&#xE1;lise matem&#xE1;tica II - Hor&#xE1;rio de D&#xFA;vidas - An&#xE1;lise Matem&#xE1;tica II</title>
-<link>http://side.utad.pt/cursos/biomedica</link>
-<description>Podem esclarecer d&#xFA;vidas de An&#xE1;lise Matem&#xE1;tica II na quarta-feira (dia 3 de julho de 2019) entre as 17h e as 18h30min.&#x3C;br/&#x3E;</description>
-<pubDate>Sat, 29 Jun 2019 00:07:02 GMT</pubDate>
-</item>
-<item>
-<title>An&#xE1;lise matem&#xE1;tica II - Consulta dos Exames - &#xC9;p. Normal + &#xC9;p. Complementar</title>
-<link>http://side.utad.pt/cursos/biomedica</link>
-<description>Podem consultar os exames da &#xC9;p. Normal e da &#xC9;p. Complementar de An&#xE1;lise Matem&#xE1;tica II na quarta-feira (dia 3 de julho de 2019) entre as 16h e as 17h.</description>
-<pubDate>Sat, 29 Jun 2019 00:06:50 GMT</pubDate>
-</item>
-<item>
-<title>Gen&#xE9;tica molecular - Sala de exame de recurso </title>
-<link>http://side.utad.pt/cursos/biomedica</link>
-<description>A Sala de exame de recurso de Gen&#xE9;tica Molecular &#xE9; na sala 1.01 das Ci&#xEA;ncias Agr&#xE1;rias (sala da aula te&#xF3;rica). &#x3C;br/&#x3E;&#x3C;br/&#x3E;Paula Lopes</description>
-<pubDate>Fri, 28 Jun 2019 15:16:48 GMT</pubDate>
-</item>
-<item>
-<title>Mec&#xE2;nica dos materiais - Exame de recurso</title>
-<link>http://side.utad.pt/cursos/biomedica</link>
-<description>Est&#xE3;o abertas as inscri&#xE7;&#xF5;es para o exame de recurso, at&#xE9; &#xE0;s 9:30 horas do dia 3 de julho.&#x3C;br/&#x3E;&#x3C;br/&#x3E;Jos&#xE9; Morais</description>
-<pubDate>Fri, 28 Jun 2019 00:43:34 GMT</pubDate>
-</item>
-<item>
-<title>An&#xE1;lise matem&#xE1;tica II - Lista de Exerc&#xED;cios - Freq. 2</title>
-<link>http://side.utad.pt/cursos/biomedica</link>
-<description>A lista de exerc&#xED;cios para a Frequ&#xEA;ncia 2 de An&#xE1;lise Matem&#xE1;tica II &#xE9; a seguinte:&#x3C;br/&#x3E;- desde o exerc&#xED;cio 22 at&#xE9; ao exerc&#xED;cio 84.&#x3C;br/&#x3E;&#x3C;br/&#x3E;Notas: &#x3C;br/&#x3E;1. Embora seja necess&#xE1;rio saber o conceito de derivada direcional, este n&#xE3;o ser&#xE1; objeto direto de avalia&#xE7;&#xE3;o nesta Frequ&#xEA;ncia. Assim, excluem-se os exerc&#xED;cios 41, 42 e 43 (a).&#x3C;br/&#x3E;2. Da lista de exerc&#xED;cios do 72 ao 84 recomendo a resolu&#xE7;&#xE3;o do 73, 74, 76, 77, 78, 82, 83 e 84 (a).&#x3C;br/&#x3E;3. Na aula de d&#xFA;vidas que vai ser marcada para a pr&#xF3;xima ter&#xE7;a-feira (dia 11, das 14h30min &#xE0;s 16h)&#x3C;br/&#x3E;irei resolver alguns destes exerc&#xED;cios.</description>
-<pubDate>Sat, 8 Jun 2019 20:04:50 GMT</pubDate>
-</item>
-<item>
-<title>Modela&#xE7;&#xE3;o e controlo de sistemas - Experi&#xEA;ncia </title>
-<link>http://side.utad.pt/cursos/biomedica</link>
-<description>Caros Alunos&#x3C;br/&#x3E;&#x3C;br/&#x3E;Coloquei alguma informa&#xE7;&#xE3;o num Padlet dispon&#xED;vel em: &#x3C;br/&#x3E;&#x3C;br/&#x3E;https://padlet.com/Moura_Oliveira/92ocys5lrk6a&#x3C;br/&#x3E;&#x3C;br/&#x3E;Agrade&#xE7;o que testem. Ainda est&#xE1; em constru&#xE7;&#xE3;o. Os elementos que constam no mesmo t&#xEA;m a ver com o &#xFA;ltimo trabalho da componente 1. &#x3C;br/&#x3E;&#x3C;br/&#x3E;Paulo Moura Oliveira&#x3C;br/&#x3E;</description>
-<pubDate>Wed, 29 May 2019 16:04:27 GMT</pubDate>
-</item>
-<item>
-<title>An&#xE1;lise matem&#xE1;tica II - Exerc&#xED;cios Resolvidos + Interpreta&#xE7;&#xE3;o Geom&#xE9;trica</title>
-<link>http://side.utad.pt/cursos/biomedica</link>
-<description>Al&#xE9;m da resolu&#xE7;&#xE3;o dos exerc&#xED;cios abaixo indicados, foi ainda acrescentada resolu&#xE7;&#xE3;o do Ex.&#xBA; 41. (c).&#x3C;br/&#x3E;&#x3C;br/&#x3E;Foram disponibilizadas no campo &#x22;Downloads&#x22; do SIDE quatro p&#xE1;ginas com exerc&#xED;cios resolvidos envolvendo o conceito de diferenciabilidade assim como um p&#xE1;gina com a interpreta&#xE7;&#xE3;o geom&#xE9;trica da derivada direcional.&#x3C;br/&#x3E;&#x3C;br/&#x3E;</description>
-<pubDate>Mon, 22 Apr 2019 11:15:07 GMT</pubDate>
-</item>
-<item>
-<title>An&#xE1;lise matem&#xE1;tica II - Lista de Exerc&#xED;cios - Freq. 1</title>
-<link>http://side.utad.pt/cursos/biomedica</link>
-<description>A lista de exerc&#xED;cios das Folhas Pr&#xE1;ticas, sob avalia&#xE7;&#xE3;o na Frequ&#xEA;ncia 1 de An&#xE1;lise Matem&#xE1;tica II, vai do exerc&#xED;cio 1. at&#xE9; ao 21.&#x3C;br/&#x3E;Relativamente &#xE0;s derivadas direcionais, podem tamb&#xE9;m resolver os exerc&#xED;cios 41., 42 e 43. (a).</description>
-<pubDate>Sun, 21 Apr 2019 11:39:10 GMT</pubDate>
-</item>
-</channel>
-</rss>

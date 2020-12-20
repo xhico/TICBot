@@ -1,96 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-
-<rss version="2.0"
- xmlns:admin="http://webns.net/mvcb/"
- xmlns:content="http://purl.org/rss/1.0/modules/content/"
- xmlns:dc="http://purl.org/dc/elements/1.1/"
- xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
- xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
->
-
-<channel>
-<title>Avisos do SIDE - Licenciatura em Enologia</title>
-<link>http://side.utad.pt/rss.pl?ENO</link>
-<description>Avisos do Sistema de Informa&#xE7;&#xE3;o de Apoio ao Ensino</description>
-
-<image>
-<title>Sistema de Informa&#xE7;&#xE3;o de Apoio ao Ensino</title>
-<url>http://side.utad.pt/imagens/logo_rss.gif</url>
-<link>http://side.utad.pt/</link>
-<width>39</width>
-<height>32</height>
-</image>
-<item>
-<title>ESTUDANTES |QUESTION&#xC1;RIOS PEDAG&#xD3;GICOS 2018/2019 - 2&#xBA; SEMESTRE</title>
-<link>http://side.utad.pt/cursos/enologia</link>
-<description>O QUESTION&#xC1;RIO PEDAG&#xD3;GICO &#xE9; uma ferramenta fundamental para o processo de auto-avalia&#xE7;&#xE3;o e para a melhoria cont&#xED;nua do sistema de ensino-aprendizagem. O question&#xE1;rio &#xE9; an&#xF3;nimo, sendo imposs&#xED;vel a identifica&#xE7;&#xE3;o do respondente pelo sistema implementado. S&#xF3; ter&#xE1; que responder a este question&#xE1;rio uma vez por semestre. O seu contributo permitir&#xE1; identificar situa&#xE7;&#xF5;es relevantes de bom ou mau funcionamento das UC e/ou respetivos docentes, pelo que dever&#xE1; responder de forma consciente e isenta.&#x3C;br/&#x3E;&#x3C;A HREF=&#x22;https://www.campus.utad.pt/questionarios/Secure/index&#x22; class=&#x22;small button&#x22; target=&#x22;_blank&#x22;&#x3E;|ACEDER AOS QUESTION&#xC1;RIOS|&#x3C;/A&#x3E;&#x3C;br/&#x3E;</description>
-<pubDate>Fri, 31 May 2019 15:45:03 GMT</pubDate>
-</item>
-<item>
-<title>Pr&#xE1;ticas de viticultura e enologia I - Workshop para est&#xE1;gio de vindima</title>
-<link>http://side.utad.pt/cursos/enologia</link>
-<description>O workshop de prepara&#xE7;&#xE3;o para o est&#xE1;gio de vindima de 2019, para os alunos que v&#xE3;o frequentar PVE 1 no ano letivo de 2019/20, realiza-se no dia de 2 de Julho &#xE0;s 11h30 na sala N1.75 [ ECAV-P.I], a seguir ao exame de Viticultura II.&#x3C;br/&#x3E;O docente,&#x3C;br/&#x3E;Virg&#xED;lio Falco</description>
-<pubDate>Sun, 30 Jun 2019 15:49:06 GMT</pubDate>
-</item>
-<item>
-<title>ATEN&#xC7;&#xC3;O: ALTERA&#xC7;&#xC3;O DE HORAS DE EXAMES</title>
-<link>http://side.utad.pt/cursos/enologia</link>
-<description>INFORMAM-SE OS ALUNOS QUE DEVEM VERIFICAR NOVAMENTE O CALEND&#xC1;RIO DE EXAMES.&#x3C;br/&#x3E;FIZERAM-SE AS SEGUINTES ALTERA&#xC7;&#xD5;ES:&#x3C;br/&#x3E;&#x3C;br/&#x3E;ENG. ENOL&#xD3;GICA II - &#xC9;POCA NORMAL - INICIA &#xC0;S 14H &#x3C;br/&#x3E;&#x3C;br/&#x3E;ECONOMIA E LEGISL. VITIVIN&#xCD;COLA E GEST&#xC3;O E MARKETING - &#xC9;POCA DE RECURSO - INICIAM &#xC0;S 14H.&#x3C;br/&#x3E;&#x3C;br/&#x3E;&#x3C;br/&#x3E;&#x3C;br/&#x3E;O GABINETE DE APOIO DA ECAV</description>
-<pubDate>Tue, 11 Jun 2019 11:50:03 GMT</pubDate>
-</item>
-<item>
-<title>Pr&#xE1;ticas de viticultura e enologia I - Est&#xE1;gio de vindima 2019 na Quinta da Sequ</title>
-<link>http://side.utad.pt/cursos/enologia</link>
-<description>A Quinta da Sequeira, situada no Douro Superior, pretende Estagi&#xE1;rio /a para est&#xE1;gio de vindima. Procuramos candidatos/as que estejam dispon&#xED;veis para o final de Agosto at&#xE9; meados de Novembro, para prepara&#xE7;&#xE3;o das vindimas, sua realiza&#xE7;&#xE3;o e acompanhamento. As fun&#xE7;&#xF5;es a desempenhar abrangem todo o trabalho a realizar desde a vinha &#xE0; adega, acompanhar e apoiar todo o trabalho de Enologia e Viticultura.&#x3C;br/&#x3E;Perfil do candidato/a pretendido/a:&#x3C;br/&#x3E;&#x95; Estudante na &#xC1;rea da Enologia, Eng. Agron&#xF3;mica, Eng Alimentar&#x3C;br/&#x3E;&#x95; Dinamismo e Pro-actividade;&#x3C;br/&#x3E;&#x95; Boa capacidade de organiza&#xE7;&#xE3;o, autonomia e trabalho em equipa;&#x3C;br/&#x3E;&#x95; Disponibilidade final de Agosto Inicio de Setembro.&#x3C;br/&#x3E;Local: Douro Superior &#x96; Vila Nova de Foz C&#xF4;a&#x3C;br/&#x3E;Est&#xE1;gio Remunerado com alojamento&#x3C;br/&#x3E;Enviar email para Alexandra Pinto: alexandra@quintadasequeira.com</description>
-<pubDate>Thu, 30 May 2019 14:54:25 GMT</pubDate>
-</item>
-<item>
-<title>Pr&#xE1;ticas de viticultura e enologia I - Est&#xE1;gio de vindima 2019 na Quinta dos Lag</title>
-<link>http://side.utad.pt/cursos/enologia</link>
-<description>a) Local: Quinta dos Lagares, 5085-105 Vale de Mendiz;&#x3C;br/&#x3E;b) N&#xBA; de vagas: 2 est&#xE1;gio de vindima com dura&#xE7;&#xE3;o de 3 a 4 semanas a ter inicio em setembro pr&#xF3;ximo;&#x3C;br/&#x3E;c) Requisitos: autonomia na desloca&#xE7;&#xE3;o para a Quinta dos Lagares e disponibilidade a partir do princ&#xED;pio de setembro dependendo da data de in&#xED;cio da vindima;&#x3C;br/&#x3E;d) Fun&#xE7;&#xF5;es a desempenhar: rece&#xE7;&#xE3;o e controlo de qualidade da uva e trabalho de adega inerente &#xE0; vinifica&#xE7;&#xE3;o.&#x3C;br/&#x3E;d) Oferecemos: Remunera&#xE7;&#xE3;o.&#x3C;br/&#x3E;e) Contacto: Responder para Isabel Sarmento (email:&#xA0;geral@quintadoslagares.pt) &#x3C;br/&#x3E;</description>
-<pubDate>Wed, 15 May 2019 18:35:55 GMT</pubDate>
-</item>
-<item>
-<title>Pr&#xE1;ticas de viticultura e enologia I - Est&#xE1;gio de vindima 2019 no Grupo The Flad</title>
-<link>http://side.utad.pt/cursos/enologia</link>
-<description>H&#xE1; semelhan&#xE7;a de anos anteriores o Grupo The Fladgate Partenership (www.fladgatepartnership.com) est&#xE1; recetivo em receber alunos da Forma&#xE7;&#xE3;o de Enologia para a realiza&#xE7;&#xE3;o da Vindima 2019 .&#x3C;br/&#x3E;Os interessados devem enviar CV para Fernando Meireles (email: Fernando.Meireles@qavb.com)</description>
-<pubDate>Thu, 9 May 2019 14:09:29 GMT</pubDate>
-</item>
-<item>
-<title>Pr&#xE1;ticas de viticultura e enologia I - Est&#xE1;gio de vindima 2019 na Symington, Dou</title>
-<link>http://side.utad.pt/cursos/enologia</link>
-<description>A Symington Family Estates, est&#xE1; a aberta a candidaturas para est&#xE1;gio de vindima 2019.&#x3C;br/&#x3E;Condi&#xE7;&#xF5;es: refei&#xE7;&#xF5;es, remunera&#xE7;&#xE3;o e alojamento (se necess&#xE1;rio dependendo da adega).&#x3C;br/&#x3E;Dura&#xE7;&#xE3;o: 1 a 2 meses (Setembro e Outubro).&#x3C;br/&#x3E;Local: numa das nossas adegas no Douro.&#x3C;br/&#x3E;Os candidatos dever&#xE3;o enviar o seu CV para o email: daniel.toscano@symington.com&#x3C;br/&#x3E;&#x3C;br/&#x3E; </description>
-<pubDate>Wed, 8 May 2019 10:43:37 GMT</pubDate>
-</item>
-<item>
-<title>An&#xE1;lise e controlo analitico de vinhos I - Vaga de emprego para aluno finalista </title>
-<link>http://side.utad.pt/cursos/enologia</link>
-<description>Perfil para o candidato: &#x3C;br/&#x3E;    1. Idade inferior a 30 anos;&#x3C;br/&#x3E;    2. Finalista ou licenciatura em Enologia/Engenharia Agron&#xF3;mica;&#x3C;br/&#x3E;    3. Carta de Condu&#xE7;&#xE3;o;&#x3C;br/&#x3E;    4. Ingl&#xEA;s falado;&#x3C;br/&#x3E;    5. Conhecimentos de Windows (utilizador);&#x3C;br/&#x3E;    6. Motiva&#xE7;&#xE3;o e din&#xE2;mica, para trabalhos de adega e de campo;&#x3C;br/&#x3E;&#x3C;br/&#x3E;Contatos:&#x3C;br/&#x3E;Douro Ansi&#xE3;es &#x3C;br/&#x3E;Jos&#xE9; Rog&#xE9;rio Santos&#x3C;br/&#x3E;5140&#x96;105 Carrazeda de Ansi&#xE3;es&#x3C;br/&#x3E;Telm: 92 6718207&#x3C;br/&#x3E;E:mail: douroansiaes@sapo.pt</description>
-<pubDate>Fri, 26 Apr 2019 10:51:34 GMT</pubDate>
-</item>
-<item>
-<title>Pr&#xE1;ticas de viticultura e enologia I - Est&#xE1;gio de vindima 2019 na Quinta dos Cha</title>
-<link>http://side.utad.pt/cursos/enologia</link>
-<description>Local de est&#xE1;gio &#x96; Quinta dos Chanceleiros (situada entre o Pinh&#xE3;o e S&#xE3;o Jo&#xE3;o da Pesqueira)&#x3C;br/&#x3E;Per&#xED;odo de est&#xE1;gio de vindima - sem data prevista (poder&#xE1; ser em setembro)&#x3C;br/&#x3E;&#x3C;br/&#x3E;nome do respons&#xE1;vel: Bruno Seabra&#x3C;br/&#x3E;contacto: 935122605&#x3C;br/&#x3E;email: bseabra@cavesdamontanha.pt&#x3C;br/&#x3E;</description>
-<pubDate>Thu, 4 Apr 2019 15:37:43 GMT</pubDate>
-</item>
-<item>
-<title>Pr&#xE1;ticas de viticultura e enologia I - Est&#xE1;gio de vindima 2019 na Funda&#xE7;&#xE3;o Eug&#xE9;n</title>
-<link>http://side.utad.pt/cursos/enologia</link>
-<description>Os est&#xE1;gios decorrer&#xE3;o entre final de Julho e final de Outubro, em per&#xED;odo a ajustar caso a caso.&#x3C;br/&#x3E;Temos interesse particular em alunos com alguma maturidade acad&#xE9;mica, e naturalmente com elevado sentido de responsabilidade, interesse em evoluir na aprendizagem e disponibilidade para trabalho.&#x3C;br/&#x3E;A Funda&#xE7;&#xE3;o Eug&#xE9;nio de Almeida tem por h&#xE1;bito atribuir uma remunera&#xE7;&#xE3;o ao est&#xE1;gio.&#x3C;br/&#x3E;Os potenciais interessados dever&#xE3;o enviar por e-mail (para adegacartuxa@fea.pt ou para Pedro Baptista&#x26;#8232;, pedro.baptista@fea.pt) C.V. e informa&#xE7;&#xE3;o sobre disponibilidade de datas. Habitualmente realizamos entrevistas durante o m&#xEA;s de Abril para sele&#xE7;&#xE3;o dos candidatos.</description>
-<pubDate>Fri, 29 Mar 2019 09:29:15 GMT</pubDate>
-</item>
-<item>
-<title>Pr&#xE1;ticas de viticultura e enologia I - Est&#xE1;gio de vindima 2019 na Quinta da Sequ</title>
-<link>http://side.utad.pt/cursos/enologia</link>
-<description>A Quinta da Sequeira, Horta do Douro, em Vila Nova de Foz Coa, pretende estagi&#xE1;rios para a vindima de 2019. Os interessados devem contactar a En&#xF3;loga Alexandra Pinto (email: alexandra@quintadasequeira.com; Telm: 965 537 488)</description>
-<pubDate>Mon, 11 Mar 2019 16:44:53 GMT</pubDate>
-</item>
-<item>
-<title>Pr&#xE1;ticas de viticultura e enologia I - Est&#xE1;gio de vindima 2019 na Gran Cruz</title>
-<link>http://side.utad.pt/cursos/enologia</link>
-<description>A Gran Cruz pretende recrutar estagi&#xE1;rios para a vindima de 2019.&#x3C;br/&#x3E;&#x3C;br/&#x3E;Fun&#xE7;&#xF5;es a desempenhar:&#x3C;br/&#x3E;- rece&#xE7;&#xE3;o e escolha da uva&#x3C;br/&#x3E;- controlo de densidades&#x3C;br/&#x3E;- aplica&#xE7;&#xE3;o de produtos enol&#xF3;gicos&#x3C;br/&#x3E;- remontagens&#x3C;br/&#x3E;- e restantes fun&#xE7;&#xF5;es inerentes ao funcionamento de uma adega&#x3C;br/&#x3E;&#x3C;br/&#x3E;Dura&#xE7;&#xE3;o: +/- 30 dias&#x3C;br/&#x3E;Local: Alij&#xF3;, R&#xE9;gua e Tabua&#xE7;o&#x3C;br/&#x3E;&#x3C;br/&#x3E;Requisitos: gosto pelos vinhos, motiva&#xE7;&#xE3;o, aptid&#xE3;o para desenvolver todos os trabalhos inerentes a uma adega em vindima e vontade de aprender mais sobre a &#xE1;rea.&#x3C;br/&#x3E;&#x3C;br/&#x3E;Oferecemos para al&#xE9;m de remunera&#xE7;&#xE3;o pelo trabalho realizado e alimenta&#xE7;&#xE3;o a oportunidade de aprendizagem de novas metodologias de trabalho num ambiente profissional.&#x3C;br/&#x3E;&#x3C;br/&#x3E;Os candidatos dever&#xE3;o enviar CV para j.mesquita@grancruz.pt</description>
-<pubDate>Wed, 6 Mar 2019 17:11:06 GMT</pubDate>
-</item>
-</channel>
-</rss>
