@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rss version="2.0"
+ xmlns:admin="http://webns.net/mvcb/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+>
+
+<channel>
+<title>Avisos do SIDE - Licenciatura em Biologia</title>
+<link>http://side.utad.pt/rss.pl?BIO</link>
+<description>Avisos do Sistema de Informa&#xE7;&#xE3;o de Apoio ao Ensino</description>
+
+<image>
+<title>Sistema de Informa&#xE7;&#xE3;o de Apoio ao Ensino</title>
+<url>http://side.utad.pt/imagens/logo_rss.gif</url>
+<link>http://side.utad.pt/</link>
+<width>39</width>
+<height>32</height>
+</image>
+<item>
+<title>ESTUDANTES |QUESTION&#xC1;RIOS PEDAG&#xD3;GICOS 2018/2019 - 2&#xBA; SEMESTRE</title>
+<link>http://side.utad.pt/cursos/biologia</link>
+<description>O QUESTION&#xC1;RIO PEDAG&#xD3;GICO &#xE9; uma ferramenta fundamental para o processo de auto-avalia&#xE7;&#xE3;o e para a melhoria cont&#xED;nua do sistema de ensino-aprendizagem. O question&#xE1;rio &#xE9; an&#xF3;nimo, sendo imposs&#xED;vel a identifica&#xE7;&#xE3;o do respondente pelo sistema implementado. S&#xF3; ter&#xE1; que responder a este question&#xE1;rio uma vez por semestre. O seu contributo permitir&#xE1; identificar situa&#xE7;&#xF5;es relevantes de bom ou mau funcionamento das UC e/ou respetivos docentes, pelo que dever&#xE1; responder de forma consciente e isenta.&#x3C;br/&#x3E;&#x3C;A HREF=&#x22;https://www.campus.utad.pt/questionarios/Secure/index&#x22; class=&#x22;small button&#x22; target=&#x22;_blank&#x22;&#x3E;|ACEDER AOS QUESTION&#xC1;RIOS|&#x3C;/A&#x3E;&#x3C;br/&#x3E;</description>
+<pubDate>Fri, 31 May 2019 15:45:04 GMT</pubDate>
+</item>
+<item>
+<title>Embriologia e histologia animal - Avalia&#xE7;&#xE3;o Complementar e Exame (&#xE9;poca Normal) </title>
+<link>http://side.utad.pt/cursos/biologia</link>
+<description>A pauta com a classifica&#xE7;&#xE3;o final da avalia&#xE7;&#xE3;o complementar e exame - &#xE9;poca Normal, encontra-se dispon&#xED;vel no campo &#x22;Downloads&#x22;.&#x3C;br/&#x3E;&#x3C;br/&#x3E;O docente,&#x3C;br/&#x3E;Jorge Ventura</description>
+<pubDate>Mon, 1 Jul 2019 19:22:57 GMT</pubDate>
+</item>
+<item>
+<title>Fisiologia vegetal - atendimento alunos </title>
+<link>http://side.utad.pt/cursos/biologia</link>
+<description>Informo os alunos, que estarei dispon&#xED;vel no dia 1 de julho, a partir das 14h30m para receber os alunos, para esclarecimento de d&#xFA;vidas e consulta de exame.&#x3C;br/&#x3E;&#x3C;br/&#x3E;o docente,&#x3C;br/&#x3E;&#x3C;br/&#x3E;jlaranjo</description>
+<pubDate>Sun, 30 Jun 2019 00:25:55 GMT</pubDate>
+</item>
+<item>
+<title>Biologia dos anacordados - Avalia&#xE7;&#xE3;o Complementar e Exame (&#xE9;poca Normal) - Class</title>
+<link>http://side.utad.pt/cursos/biologia</link>
+<description>A pauta com a classifica&#xE7;&#xE3;o final da avalia&#xE7;&#xE3;o complementar e exame - &#xE9;poca Normal, encontra-se dispon&#xED;vel no campo &#x22;Downloads&#x22;.&#x3C;br/&#x3E;&#x3C;br/&#x3E;O docente,&#x3C;br/&#x3E;Jorge Ventura</description>
+<pubDate>Tue, 25 Jun 2019 20:39:40 GMT</pubDate>
+</item>
+<item>
+<title>Gen&#xE9;tica geral - Classifica&#xE7;&#xE3;o exame &#xE9;poca normal</title>
+<link>http://side.utad.pt/cursos/biologia</link>
+<description>Caros Alunos, Est&#xE3;o dispon&#xED;veis em &#x22;avalia&#xE7;&#xF5;es&#x22; as classifica&#xE7;&#xF5;es do exame &#xE9;poca normal e em downloads a respetiva pauta. Est&#xE3;o abertas as inscri&#xE7;&#xF5;es para exame &#xE9;poca de recurso.</description>
+<pubDate>Fri, 21 Jun 2019 13:15:17 GMT</pubDate>
+</item>
+<item>
+<title>Biologia dos cordados - Avalia&#xE7;&#xE3;o Complementar e Exame (&#xE9;poca Normal) - Classifi</title>
+<link>http://side.utad.pt/cursos/biologia</link>
+<description>A pauta com a classifica&#xE7;&#xE3;o final da avalia&#xE7;&#xE3;o complementar e exame - &#xE9;poca Normal, encontra-se dispon&#xED;vel no campo &#x22;Downloads&#x22;.&#x3C;br/&#x3E;&#x3C;br/&#x3E;O docente,&#x3C;br/&#x3E;Jorge Ventura</description>
+<pubDate>Wed, 19 Jun 2019 19:45:57 GMT</pubDate>
+</item>
+<item>
+<title>Altera&#xE7;&#xE3;o de datas de alguns exames da &#xE9;poca de Recurso</title>
+<link>http://side.utad.pt/cursos/biologia</link>
+<description>Face ao Despacho RT 43/2019 que determina o encerramento do Campus devido ao condicionamento do tr&#xE2;nsito nas vias de acesso &#xE0; UTAD decorrente da realiza&#xE7;&#xE3;o do 50&#xBA; Circuito Internacional de Vila Real, informa-se que os exames da &#xC9;poca de Recurso agendados para os dias 5 e 6 de julho transitam para os dias 8 e 9 de julho, respetivamente, mantendo-se os mesmos hor&#xE1;rios e salas indicados anteriormente.&#x3C;br/&#x3E;&#x3C;br/&#x3E;A EAP-ECVA&#x3C;br/&#x3E;</description>
+<pubDate>Fri, 14 Jun 2019 14:50:35 GMT</pubDate>
+</item>
+</channel>
+</rss>

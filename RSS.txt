@@ -1,0 +1,74 @@
+Licenciaturas
+
+ACC - Animação Cultural e Comunitária
+ARQ - Arquitectura Paisagista
+BEG - Bioengenharia
+BIO - Biologia
+GEO - Biologia e Geologia
+BQU - Bioquímica
+CCO - Ciências da Comunicação
+CNT - Ciências da Nutrição
+CDA - Ciências do Ambiente
+LCD - Ciências do Desporto
+CMU - Comunicação e Multimédia
+ECN - Economia
+EDB - Educação Básica
+ENF - Enfermagem
+EAG - Engenharia Agronómica
+EBM - Engenharia Biomédica
+CIVB - Engenharia Civil
+FLO - Engenharia Florestal
+EINF - Engenharia Informática
+EME - Engenharia Mecânica
+EZOO - Engenharia Zootécnica
+ENO - Enologia
+GEB - Genética e Biotecnologia
+GES - Gestão
+LRE - Línguas e Relações Empresariais
+LLC - Línguas, Literaturas e Culturas
+PSI - Psicologia
+RPM - Reabilitação Psicomotora
+LSS - Serviço Social
+TAP - Teatro e Artes Performativas
+LTUR - Turismo
+TIC - Tecnologias da Informação e Comunicação
+EGI - Engenharia e Gestão Industrial
+
+# ----------------- #
+
+Mestrados
+
+LMV - Mestrado Integrado em Medicina Veterinária
+MESINTEGI - Mestrado Integrado em Engenharia e Gestão Industrial
+MESINTEEC - Mestrado Integrado em Engenharia Eletrotécnica e de Computadores
+MESGEST - Gestão
+MESAP - Arquitetura Paisagista
+MESBCL - Biologia Clínica Laboratorial
+MESBQU - Bioquímica
+MESCCO - Ciências da Comunicação
+MESCDC - Ciências da Cultura
+MESCDEAA - Ciências do Desporto - Especialização em Actividades de Academia
+MESCDEAPAF - Ciências do Desporto - Especialização em Avaliação e Prescrição na Actividade Física
+MESCDEJDC - Ciências do Desporto - Especialização em Jogos Desportivos Colectivos
+MESCEE - Ciências Económicas e Empresariais
+MESEPREEB - Educação Pré-Escolar e Ensino do 1º ciclo do Ensino Básico
+MESECOM - Enfermagem Comunitária
+MESEPSC - Enfermagem da Pessoa em Situação Crítica
+MESEAG - Engenharia Agronómica
+MESEA - Engenharia Alimentar
+MESENGB - Engenharia Biomédica
+MESCIV - Engenharia Civil
+MESTAM - Engenharia do Ambiente
+MESFLO - Engenharia Florestal
+MESEI - Engenharia Informática
+MESMEC - Engenharia Mecânica
+MESZOO - Engenharia Zootécnica
+MESENOVIT - Enologia e Viticultura
+MESEFEBES - Ensino de Educação Física nos E. Básico e Secundário
+MESEBMCN - Ensino do 1º Ciclo do Ensino Básico e de Matemática e Ciências Naturais no 2º Ciclo do Ensino Básico
+MESEBPHGP - Ensino do 1º Ciclo do Ensino Básico e Português e História e Geografia de Portugal no 2º Ciclo do Ensino Básico
+MESGAPL - Geociências Aplicadas
+MESGERONT - Gerontologia: Actividade Física e Saúde no Idoso
+MESGSS - Gestão dos Serviços de Saúde
+MESPSICL - Psicologia
+MESSS - Serviço Social

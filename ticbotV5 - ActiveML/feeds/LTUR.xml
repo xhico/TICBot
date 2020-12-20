@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rss version="2.0"
+ xmlns:admin="http://webns.net/mvcb/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+>
+
+<channel>
+<title>Avisos do SIDE - Licenciatura em Turismo</title>
+<link>http://side.utad.pt/rss.pl?LTUR</link>
+<description>Avisos do Sistema de Informa&#xE7;&#xE3;o de Apoio ao Ensino</description>
+
+<image>
+<title>Sistema de Informa&#xE7;&#xE3;o de Apoio ao Ensino</title>
+<url>http://side.utad.pt/imagens/logo_rss.gif</url>
+<link>http://side.utad.pt/</link>
+<width>39</width>
+<height>32</height>
+</image>
+<item>
+<title>ESTUDANTES |QUESTION&#xC1;RIOS PEDAG&#xD3;GICOS 2018/2019 - 2&#xBA; SEMESTRE</title>
+<link>http://side.utad.pt/cursos/lturismo</link>
+<description>O QUESTION&#xC1;RIO PEDAG&#xD3;GICO &#xE9; uma ferramenta fundamental para o processo de auto-avalia&#xE7;&#xE3;o e para a melhoria cont&#xED;nua do sistema de ensino-aprendizagem. O question&#xE1;rio &#xE9; an&#xF3;nimo, sendo imposs&#xED;vel a identifica&#xE7;&#xE3;o do respondente pelo sistema implementado. S&#xF3; ter&#xE1; que responder a este question&#xE1;rio uma vez por semestre. O seu contributo permitir&#xE1; identificar situa&#xE7;&#xF5;es relevantes de bom ou mau funcionamento das UC e/ou respetivos docentes, pelo que dever&#xE1; responder de forma consciente e isenta.&#x3C;br/&#x3E;&#x3C;A HREF=&#x22;https://www.campus.utad.pt/questionarios/Secure/index&#x22; class=&#x22;small button&#x22; target=&#x22;_blank&#x22;&#x3E;|ACEDER AOS QUESTION&#xC1;RIOS|&#x3C;/A&#x3E;&#x3C;br/&#x3E;</description>
+<pubDate>Fri, 31 May 2019 15:45:03 GMT</pubDate>
+</item>
+<item>
+<title>Economia do turismo - Atendimento para consulta exames e d&#xFA;vidas</title>
+<link>http://side.utad.pt/cursos/lturismo</link>
+<description>Atendimento para consulta de exames e de esclarecimento de d&#xFA;vidas, dia 4  Julho (5a), entre as 10:30 e as 12.30 (Gab. 1.04, Polo II). </description>
+<pubDate>Tue, 2 Jul 2019 00:43:18 GMT</pubDate>
+</item>
+<item>
+<title>Semin&#xE1;rio - licenciatura em turismo (254) - Data exame de recurso Semin&#xE1;rio</title>
+<link>http://side.utad.pt/cursos/lturismo</link>
+<description>No SIDE n&#xE3;o existem datas de exame normal e de recurso de semin&#xE1;rio.&#x3C;br/&#x3E;As datas combinadas foram&#x3C;br/&#x3E;24 de junho &#x96; exame normal. Ningu&#xE9;m veio.&#x3C;br/&#x3E;8 de julho &#x96; exame de recurso. &#xC9; para a semana, 2&#xAA;-feira. &#x3C;br/&#x3E;Ambos os trabalhos devem ser submetidas via Moodle. J&#xE1; abri &#x93;submiss&#xE3;o&#x94;.&#x3C;br/&#x3E;&#x3C;br/&#x3E;Melhores cumprimentos,&#x3C;br/&#x3E;Veronika Joukes&#x3C;br/&#x3E;</description>
+<pubDate>Mon, 1 Jul 2019 19:30:59 GMT</pubDate>
+</item>
+<item>
+<title>Empreendedorismo - Lan&#xE7;amento das classifica&#xE7;&#xF5;es</title>
+<link>http://side.utad.pt/cursos/lturismo</link>
+<description>As classifica&#xE7;&#xF5;es dos alunos que frequentaram e tiveram aproveitamento na UC j&#xE1; foram lan&#xE7;adas e lacradas em pautas oficiais, incluindo a do aluno David Pacheco e SOUSA (n&#xBA; 65466).&#x3C;br/&#x3E;Os docentes.</description>
+<pubDate>Sat, 29 Jun 2019 10:34:32 GMT</pubDate>
+</item>
+<item>
+<title>Planeamento e desenvolvimento tur&#xED;stico - Altera&#xE7;&#xE3;o da sala do exame de Recurso</title>
+<link>http://side.utad.pt/cursos/lturismo</link>
+<description>Avisam-se os alunos que pretendam ir a exame de recurso, de que o exame ser&#xE1; &#xE0; mesma hora no dia 3 de julho (14:30), mas na sala E2.14 no polo I da ECT.&#x3C;br/&#x3E;&#x3C;br/&#x3E;O docente,&#x3C;br/&#x3E;Ricardo Bento</description>
+<pubDate>Fri, 28 Jun 2019 17:12:21 GMT</pubDate>
+</item>
+<item>
+<title>Introdu&#xE7;&#xE3;o ao turismo - LIVRO DE INTRODU&#xC7;&#xC3;O AO TURISMO (REINALDO DIAS)</title>
+<link>http://side.utad.pt/cursos/lturismo</link>
+<description>Car@s: &#x3C;br/&#x3E;&#x3C;br/&#x3E;O livro de Introdu&#xE7;&#xE3;o ao turismo de Reinaldo Dias j&#xE1; se encontra no SIDE e n&#xE3;o apenas no Moodle. Melhores cumprimentos: Xerardo Pereiro</description>
+<pubDate>Mon, 12 Nov 2018 11:14:44 GMT</pubDate>
+</item>
+</channel>
+</rss>

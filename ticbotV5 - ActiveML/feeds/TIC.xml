@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rss version="2.0"
+ xmlns:admin="http://webns.net/mvcb/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+>
+
+<channel>
+<title>Avisos do SIDE - Licenciatura em Tecnologias da Informa&#xE7;&#xE3;o e Comunica&#xE7;&#xE3;o</title>
+<link>http://side.utad.pt/rss.pl?TIC</link>
+<description>Avisos do Sistema de Informa&#xE7;&#xE3;o de Apoio ao Ensino</description>
+
+<image>
+<title>Sistema de Informa&#xE7;&#xE3;o de Apoio ao Ensino</title>
+<url>http://side.utad.pt/imagens/logo_rss.gif</url>
+<link>http://side.utad.pt/</link>
+<width>39</width>
+<height>32</height>
+</image>
+<item>
+<title>Inscri&#xE7;&#xF5;es nas turmas - 1&#xBA; semestre 2019/2020</title>
+<link>http://side.utad.pt/cursos/tecno</link>
+<description>As inscri&#xE7;&#xF5;es nas turmas para os alunos que n&#xE3;o sejam de 1&#xAA; matr&#xED;cula realizam-se na plataforma SIDE, a partir do dia 19/setembro em hor&#xE1;rio a consultar no pr&#xF3;prio servi&#xE7;o.</description>
+<pubDate>Fri, 13 Sep 2019 16:43:20 GMT</pubDate>
+</item>
+<item>
+<title>Hor&#xE1;rios e Inscri&#xE7;&#xF5;es</title>
+<link>http://side.utad.pt/cursos/tecno</link>
+<description>Avisam-se os alunos que as UCs do 1&#xBA; e 2&#xBA; ano que n&#xE3;o constem dos hor&#xE1;rios ser&#xE3;o lecionadas em regime tutorial.&#x3C;br/&#x3E;Devem inscrever-se nessas UCs normalmente no SIDE (sem hor&#xE1;rio definido) e contactar a dire&#xE7;&#xE3;o de curso logo que poss&#xED;vel para serem inclu&#xED;dos no regime tutorial das respetivas UCs.&#x3C;br/&#x3E;&#x3C;br/&#x3E;A dire&#xE7;&#xE3;o de curso</description>
+<pubDate>Fri, 13 Sep 2019 08:37:10 GMT</pubDate>
+</item>
+</channel>
+</rss>
