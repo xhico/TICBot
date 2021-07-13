@@ -30,11 +30,13 @@ def csvReader(mailURL):
     :param: mailURL is a string pointing to the URL (GForm)
     :return: csvDict is a dictionary
     """
-    
-    if debug: print("csvReader")
+
+    if debug:
+        print("csvReader")
 
     mailFile = "mails.csv"
-    if path.exists(mailFile): remove(mailFile)
+    if path.exists(mailFile):
+        remove(mailFile)
     with open(mailFile, 'wb') as fp:
         fp.write(requests.get(mailURL).content)
     fp.close()
@@ -60,19 +62,21 @@ def getRSS(curso):
     :param curso: string
     :return: True
     """
-   
-    if debug: print("getRSS", curso)
 
-    
+    if debug:
+        print("getRSS", curso)
+
     feedRSS = "https://side.utad.pt/rss.pl?" + curso
     feedFile = "feeds/" + curso + ".xml"
-    
-    if path.exists(feedFile): remove(feedFile)
+
+    if path.exists(feedFile):
+        remove(feedFile)
 
     try:
         r = ProxyRequests(feedRSS)
         r.get()
-        with open(feedFile, 'wb') as f: f.write(r.get_raw())
+        with open(feedFile, 'wb') as f:
+            f.write(r.get_raw())
         if round(path.getsize(feedFile)) < 700:
             getRSS(curso)
 
@@ -88,8 +92,9 @@ def checkInfo(curso):
     :param curso: string
     :return entries: list sorted by date oldest to newest
     """
-    
-    if debug: print("checkInfo", curso)
+
+    if debug:
+        print("checkInfo", curso)
 
     logFile = "archive/" + curso + ".txt"
     feedFile = "feeds/" + curso + ".xml"
@@ -112,7 +117,8 @@ def checkInfo(curso):
 
     newestNews.sort(key=lambda entry: datetime.datetime.strptime(entry[0], "%Y-%m-%d %H:%M:%S"))
 
-    if len(newestNews) == 0: return None
+    if len(newestNews) == 0:
+        return None
     return newestNews
 
 
@@ -124,7 +130,8 @@ def writeLog(curso, newestNews):
     :return: True
     """
 
-    if debug: print("writeLog", curso)
+    if debug:
+        print("writeLog", curso)
 
     logFile = "archive/" + curso + ".txt"
 
@@ -146,10 +153,12 @@ def resetAccounts():
     Writes the counter for all the accounts to 0 emails sent
     :return: True
     """
-    
-    if debug: print("resetAccounts")
 
-    if path.exists(accountsFile): remove(accountsFile)
+    if debug:
+        print("resetAccounts")
+
+    if path.exists(accountsFile):
+        remove(accountsFile)
     with open(accountsFile, 'w') as fp:
         fp.write("name,sent\n")
         for i in [x for j, x in enumerate(range(18)) if j != 4]:
@@ -169,9 +178,11 @@ def getEmail():
     :return: idx is an int containing the index of the email
     """
 
-    if debug: print("getEmail")
+    if debug:
+        print("getEmail")
 
-    if not path.exists(accountsFile): resetAccounts()
+    if not path.exists(accountsFile):
+        resetAccounts()
 
     with open(accountsFile, 'r') as fp:
         accountsInfo = [x for x in csv.reader(fp, delimiter=',')]
@@ -188,8 +199,9 @@ def setEmailSent(accName, numb):
     :param numb: int
     :return: True
     """
-    
-    if debug: print("setEmailSent", accName)
+
+    if debug:
+        print("setEmailSent", accName)
 
     with open(accountsFile, 'r') as fp:
         accountsInfo = [x for x in csv.reader(fp, delimiter=',')]
@@ -220,11 +232,12 @@ def sendMail(curso, newestNews, mailList):
     :param mailList: list where each element is a string containing one email
     :return: True
     """
-    
-    if debug: print("sendMail", curso)
+
+    if debug:
+        print("sendMail", curso)
 
     for entry in newestNews:
-    
+
         # Splits the mailList, trying to avoid bot detection!
         tmpNumb = randint(15, 20)
         for mailList in [mailList[x:x + tmpNumb] for x in range(0, len(mailList), tmpNumb)]:
@@ -233,9 +246,9 @@ def sendMail(curso, newestNews, mailList):
 
             yag = yagmail.SMTP(sender_email, "password")
             body = entry[2], \
-                   "<b><br><br>- - - - - - - -<br>Aviso publicado às: " + entry[0] + "</b>", \
-                   "<b>- - - - - - - -<br>Partilhem: https://goo.gl/forms/5Ot2CkOYzMmG4ONf1</b>", \
-                   "<b>- - - - - - - -<br>Não vale a pena responder a este mail..! É um bot..!<br>Para deixar de receber estes emails, entre em contacto comigo:<br>https://www.facebook.com/Franc4Life</b>"
+                "<b><br><br>- - - - - - - -<br>Aviso publicado às: " + entry[0] + "</b>", \
+                "<b>- - - - - - - -<br>Partilhem: https://goo.gl/forms/5Ot2CkOYzMmG4ONf1</b>", \
+                "<b>- - - - - - - -<br>Não vale a pena responder a este mail..! É um bot..!<br>Para deixar de receber estes emails, entre em contacto comigo:<br>https://www.facebook.com/Franc4Life</b>"
 
             try:
                 yag.send(mailList, curso + " - " + entry[1], body)
