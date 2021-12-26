@@ -18,12 +18,9 @@
 # pip install --upgrade pip
 # pip install -r requirements.txt --no-cache-dir
 
-from os import system
-from sys import platform
-from time import sleep
-from supFunctions import *
-from datetime import datetime
 from concurrent.futures import ThreadPoolExecutor
+
+from supFunctions import *
 
 
 def main(curso, mailList):
@@ -33,7 +30,7 @@ def main(curso, mailList):
     :param: mailList is an array of the emails for that particular course
     :return: None
     """
-    
+
     # Returns an array with the newest news
     news = checkInfo(curso)
 
@@ -43,9 +40,8 @@ def main(curso, mailList):
         writeLog(curso, news)
         # Sends the info to the students
         sendMail(curso, news, mailList)
-        
-    return None
 
+    return None
 
 
 if __name__ == '__main__':
@@ -66,14 +62,3 @@ if __name__ == '__main__':
         # Foreach course runs the main function
         for curso, mailList in csvInfo.items():
             main(curso, mailList)
-
-
-
-
-
-
-
-
-
-
-
