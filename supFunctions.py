@@ -247,8 +247,8 @@ def sendMail(curso, newestNews, mailList):
             yag = yagmail.SMTP(sender_email, "password")
             body = entry[2], \
                 "<b><br><br>- - - - - - - -<br>Aviso publicado às: " + entry[0] + "</b>", \
-                "<b>- - - - - - - -<br>Partilhem: https://goo.gl/forms/5Ot2CkOYzMmG4ONf1</b>", \
-                "<b>- - - - - - - -<br>Não vale a pena responder a este mail..! É um bot..!<br>Para deixar de receber estes emails, entre em contacto comigo:<br>https://www.facebook.com/Franc4Life</b>"
+                "<b>- - - - - - - -<br>Partilhem</b>", \
+                "<b>- - - - - - - -<br>Não vale a pena responder a este mail..! É um bot..!<br>Para deixar de receber estes emails, entre em contacto comigo</b>"
 
             try:
                 yag.send(mailList, curso + " - " + entry[1], body)
