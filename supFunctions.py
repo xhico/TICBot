@@ -3,16 +3,17 @@
 
 
 import csv
-import requests
-import feedparser
 import datetime
-import yagmail
 import smtplib
-import urllib3
-from sys import maxsize
 from os import path, remove
-from proxy_requests import ProxyRequests
 from random import randint
+from sys import maxsize
+
+import feedparser
+import requests
+import urllib3
+import yagmail
+from proxy_requests import ProxyRequests
 
 # File to manage the numbers of emails sent by each account.
 accountsFile = "accounts.csv"
